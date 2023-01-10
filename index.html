@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Suggestions App</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="./index.js" ></script>
+</head>
+<body>
+    <h1>Mood Suggestions</h1>
+    <div class="container">
+        <div class = 'search-wrapper'>
+            <input
+            type = 'text'
+            id = 'mood-inp'
+            placeholder="enter your feeling here..."
+            />
+            <button id="search-btn">Search</button>
+        </div>
+      <div id="moods-container"></div>
+        <div id="result">
+            <!-- List of Moods here -->
+
+        </div>
+  
+    <form class = "add-new-mood">
+        <p>Add New Mood</p>
+        <label>Name:</label>
+        <input id="name-input"/>
+        <label>Movie:</label>
+        <input id="movie-input"/>
+        <label>Music</label>
+        <input id="music-input"/>
+        <label>Activities</label>
+        <input id="activities-input"/>
+        <button id="new-mood-btn">Submit</button>
+    </form>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,39 @@
+{
+  "moods": [
+    {
+      "name": "Happy",
+      "movie": "Set It Up (2018)",
+      "music": "'Happy' by Pharrell Williams",
+      "activities": "Dancing",
+      "id": 1
+    },
+    {
+      "name": "Angry",
+      "movie": "Seven Pounds (2008)",
+      "music": "'Good 4 u' by Olivia Rodrigo",
+      "activities": "Stretch",
+      "id": 2
+    },
+    {
+      "name": "in Love",
+      "movie": "Something From Tiffany's (2022)",
+      "music": "'Adore you' by Harry Styles",
+      "activities": "Hug and smooch",
+      "id": 3
+    },
+    {
+      "name": "Smiling",
+      "movie": "A bad moms Christmas (2017)",
+      "music": "'Smile' by Katy Perry",
+      "activities": "Laugh",
+      "id": 4
+    },
+    {
+      "name": "Mad",
+      "movie": "Elf (2003)",
+      "music": "'We Are Never Ever Getting Back Together' by Taylor Swift.",
+      "activities": "Scream",
+      "id": 5
+    }
+  ]
+}
