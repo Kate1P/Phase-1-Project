@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () =>{
 
 
 const moodInp = document.getElementById("mood-inp");
+const searchBtn = document.getElementById("search-btn");
+
 searchBtn.addEventListener("click", () => {
   const moodName = moodInp.value;
   fetch(`http://localhost:3000/moods`)
