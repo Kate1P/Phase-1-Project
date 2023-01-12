@@ -68,7 +68,7 @@ form.addEventListener('submit', (event) => {
   })
   .then((response) => response.json())
   .then(moods => console.log(moods))
-  
+  .catch(error => console.error(error));
 });
 
 
