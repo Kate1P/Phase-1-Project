@@ -23,4 +23,4 @@ To work on this app, you need to follow these steps:
 5. Open the index.html file in your browser to see and expperiment with the app.
 
 # Contributing
-
+You can contribute to this project by emailing katcancode1@gmail.com
