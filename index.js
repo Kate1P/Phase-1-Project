@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', () =>{
   console.log("working")
-})
-
 
 const moodInp = document.getElementById("mood-inp");
 const searchBtn = document.getElementById("search-btn");
@@ -45,6 +43,7 @@ searchBtn.addEventListener("click", () => {
       result.innerHTML = `<h3>Please select one of the following options: Happy, Angry, Mad, Smiling, or in Love. If you can't find your mood when you enter it, you can always add a new mood to the form below.</h3>`;
     }
   }
+})
 })
 })
 
