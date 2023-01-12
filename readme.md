@@ -20,7 +20,7 @@ To work on this app, you need to follow these steps:
 2. Fork and clone the repository containing the code for the application to your computer. You may do this by entering git clone followed by the URL of the repository you want to clone in your terminal.
 3. Open the project's root folder in the terminal and execute npm install to install all necessary files.
 4. Start the JSON server, using the command npm run json:server. This will start the server and provide access to the db.json file's contents.
-5. Open the index.html file in your browser to see and expperiment with the app.
+5. Open the index.html file in your browser to see and experiment with the app.
 
 # Contributing
 You can contribute to this project by emailing katcancode1@gmail.com
