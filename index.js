@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () =>{
   console.log("working")
 })
 
-const searchBtn = document.getElementById("search-btn");
+
 const moodInp = document.getElementById("mood-inp");
 searchBtn.addEventListener("click", () => {
   const moodName = moodInp.value;
