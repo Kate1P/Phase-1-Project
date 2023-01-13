@@ -1,7 +1,7 @@
 # Project Name: Suggestions for Mood
 
 Problem: 
-Some feelings are positive. Think about happiness, joy, being in love, being curious, and being happy. These good feelings are nice. Negative emotions like sadness, anger, fear, or rejection can be hard and even painful. It takes time to learn how to notice and name your feelings. Even if you know how you feel right now. How do we handle this? This app will help you by recommending movies, music, or things to do based on how you're feeling at the moment. Simply, enter your current mood and let's explore the app suggestions.
+Some feelings are positive. Think about happiness, joy, being in love, being curious, and being happy. These good feelings are nice. Negative emotions like sadness, anger, fear, or rejection can be hard and even painful. It takes time to learn how to notice and name your feelings. Even if you know how you feel right now. How do we handle this? This app will help you by recommending movies, music, or things to do based on how you're feeling at the moment. Simply, type your current mood in the search form and let's explore the app suggestions.
 
 # Requirements
 To work on this project, you will need to know the basics of the following technologies and language:
