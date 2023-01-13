@@ -6,13 +6,13 @@ Some feelings are positive. Think about happiness, joy, being in love, being cur
 # Requirements
 To work on this project, you will need to know the basics of the following technologies and language:
 
-**HTML (HyperText Markup Language)**: is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-**CSS (Cascading Style Sheets)**: allows you to create great-looking web pages (https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-**DOM (The Document Object Model)**: is the data representation of the objects that comprise the structure and content of a document on the web (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-**HTTP (Hypertext Transfer Protocol)**: is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, but it can also be used for other purposes (https://developer.mozilla.org/en-US/docs/Web/HTTP#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,be%20used%20for%20other%20purposes) 
-**Asynchronous JavaScript and XML, or Ajax**, is not a technology in itself, but rather an approach to using a number of existing technologies together, including HTML or XHTML, CSS, JavaScript, DOM, XML, XSLT, and most importantly the XMLHttpRequest object (https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-**JSON (JavaScript Object Notation)**: is a standard text-based format for representing structured data based on JavaScript object syntax (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-**JS (JavaScript)**: is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+1. **HTML (HyperText Markup Language)**: is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+2. **CSS (Cascading Style Sheets)**: allows you to create great-looking web pages (https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+3. **DOM (The Document Object Model)**: is the data representation of the objects that comprise the structure and content of a document on the web (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+4. **HTTP (Hypertext Transfer Protocol)**: is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, but it can also be used for other purposes (https://developer.mozilla.org/en-US/docs/Web/HTTP#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,be%20used%20for%20other%20purposes) 
+5. **Asynchronous JavaScript and XML, or Ajax**, is not a technology in itself, but rather an approach to using a number of existing technologies together, including HTML or XHTML, CSS, JavaScript, DOM, XML, XSLT, and most importantly the XMLHttpRequest object (https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+6. **JSON (JavaScript Object Notation)**: is a standard text-based format for representing structured data based on JavaScript object syntax (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+7. **JS (JavaScript)**: is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Instalation Instructions
 To work on this app, you need to follow these steps:
