@@ -45,7 +45,6 @@ searchBtn.addEventListener("click", () => {
   }
 })
 })
-})
 
 const form = document.querySelector('.add-new-mood');
 form.addEventListener('submit', (event) => {
@@ -71,7 +70,7 @@ form.addEventListener('submit', (event) => {
   .then(moods => console.log(moods))
   .catch(error => console.error(error));
 });
-
+})
 
 
 
